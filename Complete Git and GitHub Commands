@@ -1,0 +1,26 @@
+Complete Git and GitHub Commands
+>>	Git >> Version Control
+    	V1
+	    V2
+    	V3
+	    V4 (New)
+	>> It is distributed (On Cloud)
+	>> Collaboration
+	>> Tracking Changes
+	>> Recovery
+>>	Git Supported Application’s – 
+    >>	GitHub
+	    BitBucket
+	    GitLabs
+    	GitPod
+>>	For e need to configure GitHub in our system.
+    >	git config --global user.name “Assassin99”
+	>   git config --global user.email “assassit99@gmail.com”
+    >   git config --global color.ui auto
+
+>>  Mandatory Commands:
+    >   git init
+    >   git remote add origin https://github.com/Assassin99/GitDemo.git (repo url)
+	>	git pull origin main
+	>	git status
+	>	git add (File Name).(For All Files)
